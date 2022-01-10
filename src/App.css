@@ -1,0 +1,20 @@
+
+ li {
+    display: float;
+    margin: 25px;
+  }
+  li:nth-child(1) {
+    color: #9B9B9B;
+  }
+  li:nth-child(2) {
+    color: #056DFF;
+  }
+  li:nth-child(3) {
+    color: #DF45BD;
+  }
+  li:nth-child(4) {
+    color: #F02020;
+  }
+  li span {
+    color: black;
+  }
